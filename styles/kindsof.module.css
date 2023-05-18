@@ -1,0 +1,19 @@
+.mybutton{
+    width: 225;
+}
+
+.center{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.commonsize{
+  width: 400;
+  height: 400;
+}
+.backimage{
+    background-image:url("/paperpic.jpg");
+    width: 1800;
+    height: 791;
+}
+
